@@ -1,0 +1,386 @@
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.LoginForm.resources
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+C:\Users\umtha\source\repos\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Customer.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.LoginForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.FeedbackForm.resources
+C:\Users\chand\Downloads\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.HomeForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Customer.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.FeedbackForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.HomeForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+C:\Users\umtha\OneDrive\Documents\QuickMart Business Control System\QuickMart Business Control System\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Customer.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.FeedbackForm.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.HomeForm.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\QuickMart Business Control System (2)\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Form1.resources
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\COSC_31112_Project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Customer.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.FeedbackForm.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Form1.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.HomeForm.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+C:\COSC_31112_Project\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.exe
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.deps.json
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.runtimeconfig.json
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\QuickMart Business Control System.pdb
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\System.ServiceModel.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.AssemblyReference.cache
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.CategoryForm.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Customer.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.FeedbackForm.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Form1.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.HomeForm.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.ProductForm.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.Properties.Resources.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart_Business_Control_System.SalesReportForm.resources
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.GenerateResource.cache
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.GeneratedMSBuildEditorConfig.editorconfig
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfoInputs.cache
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.AssemblyInfo.cs
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.csproj.CoreCompileInputs.cache
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMar.52A1DC00.Up2Date
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\refint\QuickMart Business Control System.dll
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.pdb
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\QuickMart Business Control System.genruntimeconfig.cache
+E:\UOK\3rd yr\sem 1\COSC 31112 BECS 31242 - Visual Programming\project\QuickMart Business Control System\obj\Debug\net8.0-windows\ref\QuickMart Business Control System.dll

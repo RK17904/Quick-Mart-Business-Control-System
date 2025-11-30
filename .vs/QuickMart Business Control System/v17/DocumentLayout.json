@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\quickmart business control system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:quickmart business control system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\salesreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:salesreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\productdataset.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:productdataset.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|e:\\uok\\3rd yr\\sem 1\\cosc 31112 becs 31242 - visual programming\\project\\quickmart business control system\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3DE62-56D7-49AE-A7B5-4611E985319C}|QuickMart Business Control System.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:02:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:36:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T02:42:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\HomeForm.cs [Design]",
+              "RelativeToolTip": "HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:25:44.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuickMart Business Control System.csproj",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\QuickMart Business Control System.csproj",
+              "RelativeDocumentMoniker": "QuickMart Business Control System.csproj",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\QuickMart Business Control System.csproj",
+              "RelativeToolTip": "QuickMart Business Control System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T05:46:15.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:26:01.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "CategoryForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T02:39:33.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report2.rdlc [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Report2.rdlc",
+              "RelativeDocumentMoniker": "Report2.rdlc",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Report2.rdlc [Design]",
+              "RelativeToolTip": "Report2.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-07-06T05:48:20.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:30:23.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDataSet.xss",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\ProductDataSet.xss",
+              "RelativeDocumentMoniker": "ProductDataSet.xss",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\ProductDataSet.xss",
+              "RelativeToolTip": "ProductDataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPhZRPSytnFMafyUwqDQnEqMSKmXpjx7RIQhO4WhRisd1F10VcGcldtCIY0H4BQbsRP4Gu3DQKVtzUTcCQYFSqjVjQufHepBFM7sTgzCRjJzOZLoppJqn2B\u002B/iPec5z3l5/wH/w\u002BTkJF0ul78vl8sxURRLoijWmsZ7URQ3Y7FYAJqmEc0GjYRCodHZ2dnvLBbLRDqd7jg\u002BPv64UChQjRq32/2X2\u002B0Wurq63nIc9/OzhqFQ6KOpqakfent7566url91dXYhn89DLIs6XbfdDoIgoKhKZXR09FrXrZFAIGD0eDy92Wz2VaFQgM/rg8vlapYBAP64vETmbdYE4EtDc/KJXC5XK5VKtWpVQbHIIZ8voFQqged53eA4Dh\u002B4D\u002BB5HgDw7AoXFxclnuerQ0NDiEajYK9ZuFyfw9pu1enev3uHdDpdj\u002Bv2cHx8/NtwOPzj09zpdPZbrda\u002BVCqFjY0NqKoKijI2lkCSKpAkCU6nE2tra/oVdnd3f\u002BLz\u002Bb7Z39\u002BHoijIZrOgaRoejwe1Wg339/eN8v\u002BkZQ8FQcDu7i4ikQgikQgSiUSz5EVaDA0GA2w2GyiKgslkgtlsbpa8SIuh3W7HysoKBgYGEAgEEAwGmyUvQgHA8vLyT/39/Z85HA6aJEnYbDYYjUaYTCZYLBbIsoz5\u002BXnIsoxEIoFoNKozIUkSRuM/h0UBgN/v/5ogiNcsy4JlWQBAPp9HKpWCpmn1wpGREdA0XZ8DQHt7O2iahtfrLQO4JADg8PAweXJy8joej7cUAEC1WgXLslhaWoIsyzg4OKjnenp6HgcHB\u002B9pmr7KZDIRymw2WwwGgwEAvF4vwuEwAKBSqVRIkiTb2traisViPT42Nga/369omiZJkqTVarUcgMPz8/NfJiYmfqVisVjS4XB8mkwm610BYGFhYW54ePirYDD4RpcAoGnabw8PD3MzMzPlTCYjA6g8Pj7yAEC5XK4vtra2tLOzM6iqis3NTUxPTyOXy/3JMMwAy7LY3t6GIAjY29uDoijo6OgQV1dXfz86OqoKgqBrZgCA09NT3N7e4u7uDslkEqqq1gUcxyEej0OWZVxcXODm5gaFQkHb2dlpMcOTocPhAMMwYBgGfX19IIh/n7jZbK7nGIZBZ2dnY30LFACEw\u002BFnP1qPx0Osr6/rYs33sJG/AYSnjqm2fnOXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-07-06T06:38:51.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-06T07:38:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesReportForm.cs [Design]",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\SalesReportForm.cs",
+              "RelativeDocumentMoniker": "SalesReportForm.cs",
+              "ToolTip": "C:\\COSC_31112_Project\\QuickMart Business Control System\\SalesReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:37:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:02:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesReportForm.Designer.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\SalesReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "SalesReportForm.Designer.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\SalesReportForm.Designer.cs",
+              "RelativeToolTip": "SalesReportForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:19:52.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesReportForm.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\SalesReportForm.cs",
+              "RelativeDocumentMoniker": "SalesReportForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\SalesReportForm.cs",
+              "RelativeToolTip": "SalesReportForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:07:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedbackForm.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "FeedbackForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\FeedbackForm.cs",
+              "RelativeToolTip": "FeedbackForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:48:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "CategoryForm.cs",
+              "ToolTip": "E:\\UOK\\3rd yr\\sem 1\\COSC 31112 BECS 31242 - Visual Programming\\project\\QuickMart Business Control System\\CategoryForm.cs",
+              "RelativeToolTip": "CategoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:03:51.221Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

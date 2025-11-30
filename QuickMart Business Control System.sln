@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickMart Business Control System", "QuickMart Business Control System.csproj", "{14D3DE62-56D7-49AE-A7B5-4611E985319C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D3DE62-56D7-49AE-A7B5-4611E985319C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D3DE62-56D7-49AE-A7B5-4611E985319C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D3DE62-56D7-49AE-A7B5-4611E985319C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D3DE62-56D7-49AE-A7B5-4611E985319C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7167EF69-76AF-4366-A092-79B51A3D2AC7}
+	EndGlobalSection
+EndGlobal
